@@ -1,4 +1,4 @@
-// Ejemplo de tratado de cadenas ***String***
+// Ejemplo de tratado de variables ***Boolean***
 main() {
   bool NeyYear;
   print('NewYear = ${NeyYear}');
