@@ -1,4 +1,3 @@
-// Ejercicio 3
 // Ejemplo de entrada de datos Numericos ***num***
 
 // Ejercicio 1001 de URI online judge

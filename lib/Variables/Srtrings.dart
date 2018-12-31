@@ -1,4 +1,4 @@
-// Ejercicio 4
+
 // Ejemplo de entrada de datos ***String***
 
 import 'dart:io';

@@ -1,4 +1,4 @@
-// Ejercicio 5
+
 // Ejemplo de tratado de cadenas ***String***
 import 'dart:io';
 
