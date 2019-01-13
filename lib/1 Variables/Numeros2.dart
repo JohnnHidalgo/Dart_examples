@@ -18,7 +18,7 @@ main() {
 }//main
 
 //Nota:
-//Line10: Los tipos num dan flexibilidad a la variable
+//Line9: Los tipos num dan flexibilidad a la variable
 // estas podrán tomar un valor int o double
-//Line13: El metodo readLineSync() nos devolverá una cadena de tipo String
+//Line12: El metodo readLineSync() nos devolverá una cadena de tipo String
 //por ese motivo debemos parsear el valor a int ó double
