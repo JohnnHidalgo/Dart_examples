@@ -3,15 +3,15 @@
 main(List<String> arguments) {
 
   //say('Bob', 'Howdy');
-  print(say('Johnn Hidalgo', 'Matemática'));
+  print(notas('Johnn Hidalgo', 'Matemática'));
 
   //say('Bob', 'Howdy', 'smoke signal');
-  print(say('Juan Perez', 'Matemática', 'Reprovado'));
+  print(notas('Juan Perez', 'Matemática', 'Reprovado'));
 
 }
 
 
-String say(String persona, String materia, [String estado]) {
+String notas(String persona, String materia, [String estado]) {
   var result = 'Alumno: $persona Materia: $materia';
   if (estado != null) {
     result = '$result Estado: $estado';
